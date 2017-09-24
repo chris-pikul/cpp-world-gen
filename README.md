@@ -7,8 +7,8 @@
 
 ![alt text](/images/temperature.png?raw=true "Temperature")
 
-![alt text](/moisture.png?raw=true "Moisture")
+![alt text](/images/moisture.png?raw=true "Moisture")
 
-![alt text](/images/water.png?raw=true "Water)
+![alt text](/images/water.png?raw=true "Water")
 
 ![alt text](/images/biomes.png?raw=true "Biomes")
