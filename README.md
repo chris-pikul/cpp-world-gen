@@ -3,12 +3,12 @@
 
 ## Example output
 
-![Height data](https://github.com/ChrisPikul510/cpp-world-gen/tree/master/images/height.png)
+![alt text](/images/height.png?raw=true "Height map")
 
-![Temperature data](https://github.com/ChrisPikul510/cpp-world-gen/tree/master/images/temperature.png)
+![alt text](/images/temperature.png?raw=true "Temperature")
 
-![Moisture data](https://github.com/ChrisPikul510/cpp-world-gen/tree/master/images/moisture.png)
+![alt text](/moisture.png?raw=true "Moisture")
 
-![Water data](https://github.com/ChrisPikul510/cpp-world-gen/tree/master/images/water.png)
+![alt text](/images/water.png?raw=true "Water)
 
-![Biomes data](https://github.com/ChrisPikul510/cpp-world-gen/tree/master/images/biomes.png)
+![alt text](/images/biomes.png?raw=true "Biomes")
